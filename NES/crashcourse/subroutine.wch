@@ -1,0 +1,11 @@
+
+9
+00000 0000  S  S  0  Parameters
+00001 0000  b  s  0  
+00002 0001  b  s  0  
+00003 0000  S  S  0  Capsule Table
+00004 0002  b  s  0  Small Amount
+00005 0003  b  s  0  Large Amount
+00006 0000  S  S  0  Player Table
+00007 0004  b  s  0  Health
+00008 0005  b  s  0  Weapon Amount
